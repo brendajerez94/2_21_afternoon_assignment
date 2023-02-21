@@ -7,3 +7,9 @@ Vadim's Afternoon Challenge
 +ceated .txt file using echo
 +crated .txt file using touch
 :)
+
+2/21 @ 3:18pm
++created new directory called textfiles
++moved standalong .txt files into new directory
++added :) into readme
++after this will pull git hub changed into git bash 
