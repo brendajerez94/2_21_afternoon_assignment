@@ -6,3 +6,4 @@ Vadim's Afternoon Challenge
 +dragged files relevant to folders
 +ceated .txt file using echo
 +crated .txt file using touch
+:)
